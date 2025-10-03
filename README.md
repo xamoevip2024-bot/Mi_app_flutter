@@ -1,2 +1,1 @@
-# Mi_app_flutter
-App préstamos 
+build/app/outputs/flutter-apk/app-release.apk
